@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(31, 28, 28);
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0.25em 0.25em 0.75em rgba(0,0,0,.25);
+    
+}
+
+.scoreText {
+    text-align: center;
+    color: red;
+}
+
+h1{
+    text-align: center;
+    color: rgb(230, 181, 253);
+    text-shadow: 1px 2px 2px black;
+    font-family: Corbel;
+    font-weight: 700;
+}
