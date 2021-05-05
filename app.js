@@ -3,52 +3,52 @@ document.addEventListener('DOMContentLoaded', () => {
 //card options
 const cardArray = [
     {
-        name: 'fries',
-        img: 'images/fries.png'
+        name: 'kakashi',
+        img: 'images/kakashi.jpg'
     },
     {
-        name: 'fries',
-        img: 'images/fries.png'
+        name: 'kakashi',
+        img: 'images/kakashi.jpg'
     },
     {
-        name: 'cheeseburger',
-        img: 'images/cheeseburger.png'
+        name: 'mikasa',
+        img: 'images/mikasa.png'
     },
     {
-        name: 'cheeseburger',
-        img: 'images/cheeseburger.png'
+        name: 'mikasa',
+        img: 'images/mikasa.png'
     },
     {
-        name: 'hotdog',
-        img: 'images/hotdog.png'
+        name: 'kaguya',
+        img: 'images/kaguya.png'
     },
     {
-        name: 'hotdog',
-        img: 'images/hotdog.png'
+        name: 'kaguya',
+        img: 'images/kaguya.png'
     },
     {
-        name: 'ice-cream',
-        img: 'images/ice-cream.png'
+        name: 'yato',
+        img: 'images/yato.jpg'
     },
     {
-        name: 'ice-cream',
-        img: 'images/ice-cream.png'
+        name: 'yato',
+        img: 'images/yato.jpg'
     },
     {
-        name: 'milkshake',
-        img: 'images/milkshake.png'
+        name: 'levi',
+        img: 'images/levi.jpg'
     },
     {
-        name: 'milkshake',
-        img: 'images/milkshake.png'
+        name: 'levi',
+        img: 'images/levi.jpg'
     },
     {
-        name: 'pizza',
-        img: 'images/pizza.png'
+        name: 'hiyori',
+        img: 'images/hiyori.jpg'
     },
     {
-    name: 'pizza',
-    img: 'images/pizza.png'
+    name: 'hiyori',
+    img: 'images/hiyori.jpg'
 }
 ]
 
